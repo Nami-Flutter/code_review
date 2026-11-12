@@ -3,7 +3,7 @@
 ## Screenshots
 
 ## Checklist
-- [ ] شغّلت dart format و flutter analyze و flutter test
+- [ ] شغّلت ،  flutter test،dart format،flutter analyze --no-fatal-infos echo $?
 - [ ] مفيش نصوص hardcoded في الـ UI
 - [ ] مفيش keys أو passwords في الكود
 - [ ] كل Controller/Timer ليه dispose
