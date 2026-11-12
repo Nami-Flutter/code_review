@@ -57,3 +57,4 @@ key.properties
 *.mobileprovision
 service-account*.json
 **/service_account*.json
+env.json
