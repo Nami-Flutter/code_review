@@ -1,0 +1,12 @@
+## إيه اللي اتعمل وليه؟
+
+## Screenshots
+
+## Checklist
+- [ ] شغّلت dart format و flutter analyze و flutter test
+- [ ] مفيش نصوص hardcoded في الـ UI
+- [ ] مفيش keys أو passwords في الكود
+- [ ] كل Controller/Timer ليه dispose
+- [ ] مفيش context بعد await من غير mounted
+- [ ] الشاشة بتتعامل مع loading وerror وفاضي
+- [ ] الـ PR أقل من 400 سطر
