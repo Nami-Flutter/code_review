@@ -46,3 +46,14 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+.env
+.env.*
+key.properties
+**/key.properties
+*.jks
+*.keystore
+*.p12
+*.pem
+*.mobileprovision
+service-account*.json
+**/service_account*.json
