@@ -11,7 +11,7 @@ class _TestPageState extends State<TestPage> {
   @override
   Widget build(BuildContext context) {
     final unusedValue = 5;
-    int number = 'hello';
+    int number = 1;
     return const Scaffold(body: Center(child: Text('Test')));
   }
 }
